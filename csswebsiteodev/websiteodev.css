@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(132, 173, 219);
+}
+h2 {
+    color: rgb(124, 37, 37);
+    text-decoration:underline;
+    border: double 3px red;
+    text-align: center;
+}
+p {
+    font-size: 19px;
+}
